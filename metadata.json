@@ -1,0 +1,6 @@
+{
+  "name": "Search Ads Campaign Architect",
+  "description": "Transforms raw search keywords into segmented Google Search Ads Exact and Phrase campaigns with automated cross-match and cross-theme negative keyword sculpts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
